@@ -21,3 +21,11 @@
 - Task4:Sum all the item from numeric list.
 - Task5:Largest no. from a numeric list.
 - Task5:Print all the number which are less than 5 from the given list.
+
+# Assignment 3
+- Task1:Make a Calculator using Python 
+- Task2:Write a program to check if there is any numeric value in list for loop
+- Task3:Write a python script to add a new key in dictionary.
+- Task4:Write a python program to sum all numeric values in dic.
+- Task5:Write a program to identify duplicate values from the list.
+- Task6:Write a python script to check if a given key already exist in the dictionary
