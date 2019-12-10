@@ -50,3 +50,13 @@ include a book title as an argument in the function call.
 - Task5:Write a program which randomly generate a number between 1 to 30 and ask the user in input field to
 guess the correct number. Give three chances to user guess the number and also give hint to user if
 hidden number is greater or smaller than the number he given to input field.
+
+# Assignment 5
+- Task1:Write a Python function to calculate the factorial of a number (a non-negative
+integer). The function accepts the number as an argument.
+- Task2:Write a Python function that accepts a string and calculate the number of upper
+case letters and lower case letters.
+- Task3:Write a Python function to print the even numbers from a given list.
+- Task4:Write a Python function that checks whether a passed string is palindrome or not.
+- Task5:Write a Python function that takes a number as a parameter and check thenumber is prime or not.
+- Task6:Write a function which accepts the multiple arguments of user shopping list and print all the items which user bought from market.
