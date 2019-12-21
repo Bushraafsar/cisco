@@ -3,7 +3,6 @@
 # Assignment 1 
 
 **INSTRUCTOR:SIR ALI MUGHAL**
-
 ***DESCRIPTION***
 
 - Task1:Print String in Specific Format
@@ -60,3 +59,9 @@ case letters and lower case letters.
 - Task4:Write a Python function that checks whether a passed string is palindrome or not.
 - Task5:Write a Python function that takes a number as a parameter and check thenumber is prime or not.
 - Task6:Write a function which accepts the multiple arguments of user shopping list and print all the items which user bought from market.
+# Assignment 6
+- Task1:Define object oriented programming
+- Task2:Benefits Of OOP
+- Task3:Difference b/w method & function
+- Task4:Define:Class,object,attributes,behaviour
+- Task5:Define a class name Car which have five attribute and 3 methods
